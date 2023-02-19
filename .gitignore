@@ -1,0 +1,5 @@
+*.zip
+*.txt
+*.png
+raw
+.DS_Store
