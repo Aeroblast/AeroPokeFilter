@@ -1,5 +1,5 @@
 *.zip
-*.txt
 *.png
+build_data/*.txt
 raw
 .DS_Store

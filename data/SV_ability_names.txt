@@ -1,0 +1,298 @@
+1	恶臭	惡臭	あくしゅう	Stench	
+2	降雨	降雨	あめふらし	Drizzle	
+3	加速	加速	かそく	Speed Boost	
+4	战斗盔甲	戰鬥盔甲	カブトアーマー	Battle Armor	
+5	结实	結實	がんじょう	Sturdy	
+6	湿气	濕氣	しめりけ	Damp	
+7	柔软	柔軟	じゅうなん	Limber	
+8	沙隐	沙隱	すながくれ	Sand Veil	
+9	静电	靜電	せいでんき	Static	
+10	蓄电	蓄電	ちくでん	Volt Absorb	
+11	储水	儲水	ちょすい	Water Absorb	
+12	迟钝	遲鈍	どんかん	Oblivious	
+13	无关天气	無關天氣	ノーてんき	Cloud Nine	
+14	复眼	複眼	ふくがん	Compound Eyes	
+15	不眠	不眠	ふみん	Insomnia	
+16	变色	變色	へんしょく	Color Change	
+17	免疫	免疫	めんえき	Immunity	
+18	引火	引火	もらいび	Flash Fire	
+19	鳞粉	鱗粉	りんぷん	Shield Dust	
+20	我行我素	我行我素	マイペース	Own Tempo	
+21	吸盘	吸盤	きゅうばん	Suction Cups	
+22	威吓	威嚇	いかく	Intimidate	
+23	踩影	踩影	かげふみ	Shadow Tag	
+24	粗糙皮肤	粗糙皮膚	さめはだ	Rough Skin	
+25	神奇守护	神奇守護	ふしぎなまもり	Wonder Guard	
+26	飘浮	飄浮	ふゆう	Levitate	
+27	孢子	孢子	ほうし	Effect Spore	
+28	同步	同步	シンクロ	Synchronize	
+29	恒净之躯	恆淨之軀	クリアボディ	Clear Body	
+30	自然回复	自然回復	しぜんかいふく	Natural Cure	
+31	避雷针	避雷針	ひらいしん	Lightning Rod	
+32	天恩	天恩	てんのめぐみ	Serene Grace	
+33	悠游自如	悠游自如	すいすい	Swift Swim	
+34	叶绿素	葉綠素	ようりょくそ	Chlorophyll	
+35	发光	發光	はっこう	Illuminate	
+36	复制	複製	トレース	Trace	
+37	大力士	大力士	ちからもち	Huge Power	
+38	毒刺	毒刺	どくのトゲ	Poison Point	
+39	精神力	精神力	せいしんりょく	Inner Focus	
+40	熔岩铠甲	熔岩鎧甲	マグマのよろい	Magma Armor	
+41	水幕	水幕	みずのベール	Water Veil	
+42	磁力	磁力	じりょく	Magnet Pull	
+43	隔音	隔音	ぼうおん	Soundproof	
+44	雨盘	雨盤	あめうけざら	Rain Dish	
+45	扬沙	揚沙	すなおこし	Sand Stream	
+46	压迫感	壓迫感	プレッシャー	Pressure	
+47	厚脂肪	厚脂肪	あついしぼう	Thick Fat	
+48	早起	早起	はやおき	Early Bird	
+49	火焰之躯	火焰之軀	ほのおのからだ	Flame Body	
+50	逃跑	逃跑	にげあし	Run Away	
+51	锐利目光	銳利目光	するどいめ	Keen Eye	
+52	怪力钳	怪力鉗	かいりきバサミ	Hyper Cutter	
+53	捡拾	撿拾	ものひろい	Pickup	
+54	懒惰	懶惰	なまけ	Truant	
+55	活力	活力	はりきり	Hustle	
+56	迷人之躯	迷人之軀	メロメロボディ	Cute Charm	
+57	正电	正電	プラス	Plus	
+58	负电	負電	マイナス	Minus	
+59	阴晴不定	陰晴不定	てんきや	Forecast	
+60	黏着	黏著	ねんちゃく	Sticky Hold	
+61	蜕皮	蛻皮	だっぴ	Shed Skin	
+62	毅力	毅力	こんじょう	Guts	
+63	神奇鳞片	神奇鱗片	ふしぎなうろこ	Marvel Scale	
+64	污泥浆	污泥漿	ヘドロえき	Liquid Ooze	
+65	茂盛	茂盛	しんりょく	Overgrow	
+66	猛火	猛火	もうか	Blaze	
+67	激流	激流	げきりゅう	Torrent	
+68	虫之预感	蟲之預感	むしのしらせ	Swarm	
+69	坚硬脑袋	堅硬腦袋	いしあたま	Rock Head	
+70	日照	日照	ひでり	Drought	
+71	沙穴	沙穴	ありじごく	Arena Trap	
+72	干劲	幹勁	やるき	Vital Spirit	
+73	白色烟雾	白色煙霧	しろいけむり	White Smoke	
+74	瑜伽之力	瑜伽之力	ヨガパワー	Pure Power	
+75	硬壳盔甲	硬殼盔甲	シェルアーマー	Shell Armor	
+76	气闸	氣閘	エアロック	Air Lock	
+77	蹒跚	蹣跚	ちどりあし	Tangled Feet	
+78	电气引擎	電氣引擎	でんきエンジン	Motor Drive	
+79	斗争心	鬥爭心	とうそうしん	Rivalry	
+80	不屈之心	不屈之心	ふくつのこころ	Steadfast	
+81	雪隐	雪隱	ゆきがくれ	Snow Cloak	
+82	贪吃鬼	貪吃鬼	くいしんぼう	Gluttony	
+83	愤怒穴位	憤怒穴位	いかりのつぼ	Anger Point	
+84	轻装	輕裝	かるわざ	Unburden	
+85	耐热	耐熱	たいねつ	Heatproof	
+86	单纯	單純	たんじゅん	Simple	
+87	干燥皮肤	乾燥皮膚	かんそうはだ	Dry Skin	
+88	下载	下載	ダウンロード	Download	
+89	铁拳	鐵拳	てつのこぶし	Iron Fist	
+90	毒疗	毒療	ポイズンヒール	Poison Heal	
+91	适应力	適應力	てきおうりょく	Adaptability	
+92	连续攻击	連續攻擊	スキルリンク	Skill Link	
+93	湿润之躯	濕潤之軀	うるおいボディ	Hydration	
+94	太阳之力	太陽之力	サンパワー	Solar Power	
+95	飞毛腿	飛毛腿	はやあし	Quick Feet	
+96	一般皮肤	一般皮膚	ノーマルスキン	Normalize	
+97	狙击手	狙擊手	スナイパー	Sniper	
+98	魔法防守	魔法防守	マジックガード	Magic Guard	
+99	无防守	無防守	ノーガード	No Guard	
+100	慢出	慢出	あとだし	Stall	
+101	技术高手	技術高手	テクニシャン	Technician	
+102	叶子防守	葉子防守	リーフガード	Leaf Guard	
+103	笨拙	笨拙	ぶきよう	Klutz	
+104	破格	破格	かたやぶり	Mold Breaker	
+105	超幸运	超幸運	きょううん	Super Luck	
+106	引爆	引爆	ゆうばく	Aftermath	
+107	危险预知	危險預知	きけんよち	Anticipation	
+108	预知梦	預知夢	よちむ	Forewarn	
+109	纯朴	純樸	てんねん	Unaware	
+110	有色眼镜	有色眼鏡	いろめがね	Tinted Lens	
+111	过滤	過濾	フィルター	Filter	
+112	慢启动	慢啟動	スロースタート	Slow Start	
+113	胆量	膽量	きもったま	Scrappy	
+114	引水	引水	よびみず	Storm Drain	
+115	冰冻之躯	冰凍之軀	アイスボディ	Ice Body	
+116	坚硬岩石	堅硬岩石	ハードロック	Solid Rock	
+117	降雪	降雪	ゆきふらし	Snow Warning	
+118	采蜜	採蜜	みつあつめ	Honey Gather	
+119	察觉	察覺	おみとおし	Frisk	
+120	舍身	捨身	すてみ	Reckless	
+121	多属性	多屬性	マルチタイプ	Multitype	
+122	花之礼	花之禮	フラワーギフト	Flower Gift	
+123	梦魇	夢魘	ナイトメア	Bad Dreams	
+124	顺手牵羊	順手牽羊	わるいてぐせ	Pickpocket	
+125	强行	強行	ちからずく	Sheer Force	
+126	唱反调	唱反調	あまのじゃく	Contrary	
+127	紧张感	緊張感	きんちょうかん	Unnerve	
+128	不服输	不服輸	まけんき	Defiant	
+129	软弱	軟弱	よわき	Defeatist	
+130	诅咒之躯	詛咒之軀	のろわれボディ	Cursed Body	
+131	治愈之心	治癒之心	いやしのこころ	Healer	
+132	友情防守	友情防守	フレンドガード	Friend Guard	
+133	碎裂铠甲	碎裂鎧甲	くだけるよろい	Weak Armor	
+134	重金属	重金屬	ヘヴィメタル	Heavy Metal	
+135	轻金属	輕金屬	ライトメタル	Light Metal	
+136	多重鳞片	多重鱗片	マルチスケイル	Multiscale	
+137	中毒激升	中毒激升	どくぼうそう	Toxic Boost	
+138	受热激升	受熱激升	ねつぼうそう	Flare Boost	
+139	收获	收穫	しゅうかく	Harvest	
+140	心灵感应	心靈感應	テレパシー	Telepathy	
+141	心情不定	心情不定	ムラっけ	Moody	
+142	防尘	防塵	ぼうじん	Overcoat	
+143	毒手	毒手	どくしゅ	Poison Touch	
+144	再生力	再生力	さいせいりょく	Regenerator	
+145	健壮胸肌	健壯胸肌	はとむね	Big Pecks	
+146	拨沙	撥沙	すなかき	Sand Rush	
+147	奇迹皮肤	奇跡皮膚	ミラクルスキン	Wonder Skin	
+148	分析	分析	アナライズ	Analytic	
+149	幻觉	幻覺	イリュージョン	Illusion	
+150	变身者	變身者	かわりもの	Imposter	
+151	穿透	穿透	すりぬけ	Infiltrator	
+152	木乃伊	木乃伊	ミイラ	Mummy	
+153	自信过度	自信過度	じしんかじょう	Moxie	
+154	正义之心	正義之心	せいぎのこころ	Justified	
+155	胆怯	膽怯	びびり	Rattled	
+156	魔法镜	魔法鏡	マジックミラー	Magic Bounce	
+157	食草	食草	そうしょく	Sap Sipper	
+158	恶作剧之心	惡作劇之心	いたずらごころ	Prankster	
+159	沙之力	沙之力	すなのちから	Sand Force	
+160	铁刺	鐵刺	てつのトゲ	Iron Barbs	
+161	达摩模式	達摩模式	ダルマモード	Zen Mode	
+162	胜利之星	勝利之星	しょうりのほし	Victory Star	
+163	涡轮火焰	渦輪火焰	ターボブレイズ	Turboblaze	
+164	兆级电压	兆級電壓	テラボルテージ	Teravolt	
+165	芳香幕	芳香幕	アロマベール	Aroma Veil	
+166	花幕	花幕	フラワーベール	Flower Veil	
+167	颊囊	頰囊	ほおぶくろ	Cheek Pouch	
+168	变幻自如	變幻自如	へんげんじざい	Protean	
+169	毛皮大衣	毛皮大衣	ファーコート	Fur Coat	
+170	魔术师	魔術師	マジシャン	Magician	
+171	防弹	防彈	ぼうだん	Bulletproof	
+172	好胜	好勝	かちき	Competitive	
+173	强壮之颚	強壯之顎	がんじょうあご	Strong Jaw	
+174	冰冻皮肤	冰凍皮膚	フリーズスキン	Refrigerate	
+175	甜幕	甜幕	スイートベール	Sweet Veil	
+176	战斗切换	戰鬥切換	バトルスイッチ	Stance Change	
+177	疾风之翼	疾風之翼	はやてのつばさ	Gale Wings	
+178	超级发射器	超級發射器	メガランチャー	Mega Launcher	
+179	草之毛皮	草之毛皮	くさのけがわ	Grass Pelt	
+180	共生	共生	きょうせい	Symbiosis	
+181	硬爪	硬爪	かたいツメ	Tough Claws	
+182	妖精皮肤	妖精皮膚	フェアリースキン	Pixilate	
+183	黏滑	黏滑	ぬめぬめ	Gooey	
+184	飞行皮肤	飛行皮膚	スカイスキン	Aerilate	
+185	亲子爱	親子愛	おやこあい	Parental Bond	
+186	暗黑气场	暗黑氣場	ダークオーラ	Dark Aura	
+187	妖精气场	妖精氣場	フェアリーオーラ	Fairy Aura	
+188	气场破坏	氣場破壞	オーラブレイク	Aura Break	
+189	始源之海	始源之海	はじまりのうみ	Primordial Sea	
+190	终结之地	終結之地	おわりのだいち	Desolate Land	
+191	德尔塔气流	德爾塔氣流	デルタストリーム	Delta Stream	
+192	持久力	持久力	じきゅうりょく	Stamina	
+193	跃跃欲逃	躍躍欲逃	にげごし	Wimp Out	
+194	危险回避	危險迴避	ききかいひ	Emergency Exit	
+195	遇水凝固	遇水凝固	みずがため	Water Compaction	
+196	不仁不义	不仁不義	ひとでなし	Merciless	
+197	界限盾壳	界限盾殼	リミットシールド	Shields Down	
+198	蹲守	監視	はりこみ	Stakeout	
+199	水泡	水泡	すいほう	Water Bubble	
+200	钢能力者	鋼能力者	はがねつかい	Steelworker	
+201	怒火冲天	怒火沖天	ぎゃくじょう	Berserk	
+202	拨雪	撥雪	ゆきかき	Slush Rush	
+203	远隔	遠隔	えんかく	Long Reach	
+204	湿润之声	濕潤之聲	うるおいボイス	Liquid Voice	
+205	先行治疗	先行治療	ヒーリングシフト	Triage	
+206	电气皮肤	電氣皮膚	エレキスキン	Galvanize	
+207	冲浪之尾	衝浪之尾	サーフテール	Surge Surfer	
+208	鱼群	魚群	ぎょぐん	Schooling	
+209	画皮	畫皮	ばけのかわ	Disguise	
+210	牵绊变身	牽絆變身	きずなへんげ	Battle Bond	
+211	群聚变形	群聚變形	スワームチェンジ	Power Construct	
+212	腐蚀	腐蝕	ふしょく	Corrosion	
+213	绝对睡眠	絕對睡眠	ぜったいねむり	Comatose	
+214	女王的威严	女王的威嚴	じょおうのいげん	Queenly Majesty	
+215	飞出的内在物	飛出的內在物	とびだすなかみ	Innards Out	
+216	舞者	舞者	おどりこ	Dancer	
+217	蓄电池	蓄電池	バッテリー	Battery	
+218	毛茸茸	毛茸茸	もふもふ	Fluffy	
+219	鲜艳之躯	鮮艷之軀	ビビッドボディ	Dazzling	
+220	魂心	魂心	ソウルハート	Soul-Heart	
+221	卷发	捲髮	カーリーヘアー	Tangling Hair	
+222	接球手	接球手	レシーバー	Receiver	
+223	化学之力	化學之力	かがくのちから	Power of Alchemy	
+224	异兽提升	異獸提升	ビーストブースト	Beast Boost	
+225	ＡＲ系统	ＡＲ系統	ＡＲシステム	RKS System	
+226	电气制造者	電氣製造者	エレキメイカー	Electric Surge	
+227	精神制造者	精神製造者	サイコメイカー	Psychic Surge	
+228	薄雾制造者	薄霧製造者	ミストメイカー	Misty Surge	
+229	青草制造者	青草製造者	グラスメイカー	Grassy Surge	
+230	金属防护	金屬防護	メタルプロテクト	Full Metal Body	
+231	幻影防守	幻影防守	ファントムガード	Shadow Shield	
+232	棱镜装甲	稜鏡裝甲	プリズムアーマー	Prism Armor	
+233	脑核之力	腦核之力	ブレインフォース	Neuroforce	
+234	不挠之剑	不撓之劍	ふとうのけん	Intrepid Sword	
+235	不屈之盾	不屈之盾	ふくつのたて	Dauntless Shield	
+236	自由者	自由者	リベロ	Libero	
+237	捡球	撿球	たまひろい	Ball Fetch	
+238	棉絮	棉絮	わたげ	Cotton Down	
+239	螺旋尾鳍	螺旋尾鰭	スクリューおびれ	Propeller Tail	
+240	镜甲	鏡甲	ミラーアーマー	Mirror Armor	
+241	一口导弹	一口飛彈	うのミサイル	Gulp Missile	
+242	坚毅	堅毅	すじがねいり	Stalwart	
+243	蒸汽机	蒸汽機	じょうききかん	Steam Engine	
+244	庞克摇滚	龐克搖滾	パンクロック	Punk Rock	
+245	吐沙	吐沙	すなはき	Sand Spit	
+246	冰鳞粉	冰鱗粉	こおりのりんぷん	Ice Scales	
+247	熟成	熟成	じゅくせい	Ripen	
+248	结冻头	結凍頭	アイスフェイス	Ice Face	
+249	能量点	能量點	パワースポット	Power Spot	
+250	拟态	擬態	ぎたい	Mimicry	
+251	除障	除障	バリアフリー	Screen Cleaner	
+252	钢之意志	鋼之意志	はがねのせいしん	Steely Spirit	
+253	灭亡之躯	滅亡之軀	ほろびのボディ	Perish Body	
+254	游魂	遊魂	さまようたましい	Wandering Spirit	
+255	一猩一意	一猩一意	ごりむちゅう	Gorilla Tactics	
+256	化学变化气体	化學變化氣體	かがくへんかガス	Neutralizing Gas	
+257	粉彩护幕	粉彩護幕	パステルベール	Pastel Veil	
+258	饱了又饿	飽了又餓	はらぺこスイッチ	Hunger Switch	
+259	速击	速擊	クイックドロウ	Quick Draw	
+260	无形拳	無形拳	ふかしのこぶし	Unseen Fist	
+261	怪药	怪藥	きみょうなくすり	Curious Medicine	
+262	电晶体	電晶體	トランジスタ	Transistor	
+263	龙颚	龍顎	りゅうのあぎと	Dragon's Maw	
+264	苍白嘶鸣	蒼白嘶鳴	しろのいななき	Chilling Neigh	
+265	漆黑嘶鸣	漆黑嘶鳴	くろのいななき	Grim Neigh	
+266	人马一体	人馬一體	じんばいったい	As One	
+267	人马一体	人馬一體	じんばいったい	As One	
+268	甩不掉的气味	甩不掉的氣味	とれないにおい	Lingering Aroma	
+269	掉出种子	掉出種子	こぼれダネ	Seed Sower	
+270	热交换	熱交換	ねつこうかん	Thermal Exchange	
+271	愤怒甲壳	憤怒甲殼	いかりのこうら	Anger Shell	
+272	洁净之盐	潔淨之鹽	きよめのしお	Purifying Salt	
+273	焦香之躯	焦香之軀	こんがりボディ	Well-Baked Body	
+274	乘风	乘風	かぜのり	Wind Rider	
+275	看门犬	看門犬	ばんけん	Guard Dog	
+276	搬岩	搬岩	いわはこび	Rocky Payload	
+277	风力发电	風力發電	ふうりょくでんき	Wind Power	
+278	全能变身	全能變身	マイティチェンジ	Zero to Hero	
+279	发号施令	發號施令	しれいとう	Commander	
+280	电力转换	電力轉換	でんきにかえる	Electromorphosis	
+281	古代活性	古代活性	こだいかっせい	Protosynthesis	
+282	夸克充能	夸克充能	クォークチャージ	Quark Drive	
+283	黄金之躯	黃金之軀	おうごんのからだ	Good as Gold	
+284	灾祸之鼎	災禍之鼎	わざわいのうつわ	Vessel of Ruin	
+285	灾祸之剑	災禍之劍	わざわいのつるぎ	Sword of Ruin	
+286	灾祸之简	災禍之簡	わざわいのおふだ	Tablets of Ruin	
+287	灾祸之玉	災禍之玉	わざわいのたま	Beads of Ruin	
+288	绯红脉动	緋紅脈動	ひひいろのこどう	Orichalcum Pulse	
+289	强子引擎	強子引擎	ハドロンエンジン	Hadron Engine	
+290	跟风	跟風	びんじょう	Opportunist	
+291	反刍	反芻	はんすう	Cud Chew	
+292	锋锐	鋒銳	きれあじ	Sharpness	
+293	大将	大將	そうだいしょう	Supreme Overlord	
+294	同台共演	同台共演	きょうえん	Costar	
+295	毒满地	毒滿地	どくげしょう	Toxic Debris	
+296	尾甲	尾甲	テイルアーマー	Armor Tail	
+297	食土	食土	どしょく	Earth Eater	
+298	菌丝之力	菌絲之力	きんしのちから	Mycelium Might	
