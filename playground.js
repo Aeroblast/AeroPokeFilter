@@ -1,6 +1,6 @@
 const { Dex } = require('./SV_dex');
 
-//Dex.avalible();
+Dex.avalible();
 
 let result;
 
@@ -24,4 +24,7 @@ result = new Dex()
     //.F_by_move("水蒸气")
     .F_by_ability("强子引擎 夸克充能")
 // .F_final_evolution();
-result.print("水蒸气");
+//result.print("水蒸气");
+
+result = new Dex()
+    .F_id(571)
