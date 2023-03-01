@@ -891,3 +891,5 @@
 893	巨力锤	巨力錘	デカハンマー	Gigaton Hammer	
 894	复仇	復仇	ほうふく	Comeuppance	
 895	水波刀	水波刀	アクアカッター	Aqua Cutter	
+896	水蒸气	水蒸氣	ハイドロスチーム	Hydro Steam
+897	精神剑	精神劍	サイコブレイド	Psyblade

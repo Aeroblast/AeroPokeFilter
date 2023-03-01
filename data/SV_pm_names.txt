@@ -476,3 +476,5 @@
 1006	铁武者	鐵武者	テツノブジン	Iron Valiant
 1007	故勒顿	故勒頓	コライドン	Koraidon
 1008	密勒顿	密勒頓	ミライドン	Miraidon
+1009	波荡水	波盪水	ウネルミナモ	Walking Wake
+1010	铁斑叶	鐵斑葉	テツノイサハ	Iron Leaves
