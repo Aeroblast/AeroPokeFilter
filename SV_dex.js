@@ -348,8 +348,9 @@ class Dex {
             return true;
         }
     }
-    f_by_types(type_names) {
-        const type_objs = type_names2obj(type_names);
+    f_by_type(names) {
+        if (typeof (names) == "string") names = auto_split(names, 'chs');
+        const type_objs = type_names2obj(names);
         return pm => {
             for (const pm_type of pm.types) {
                 if (type_objs.find(obj => obj.eng == pm_type)) { return true; }
