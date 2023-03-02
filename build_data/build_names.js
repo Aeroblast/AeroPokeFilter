@@ -5,12 +5,13 @@ const internal_id = "sv-internal-id.txt";
 const national_id = "national-dex-name-1008.txt"
 const national_id_CHT = "national-dex-name-1008-CHT.txt"
 
+const loadRaw = (file) => fs.readFileSync(path.join(__dirname, '../raw', file), "utf8").replaceAll('\r', '');
 let raw;
-raw = fs.readFileSync(path.join(__dirname, internal_id), "utf8");
+raw = loadRaw(internal_id);
 const id_CHS = raw.split('\n').map(l => l.split('\t'))
-raw = fs.readFileSync(path.join(__dirname, national_id), "utf8");
+raw = loadRaw(national_id);
 const natinal_id_name = raw.split('\n').map(l => l.split('\t'));
-raw = fs.readFileSync(path.join(__dirname, national_id_CHT), "utf8");
+raw = loadRaw(national_id_CHT);
 const natinal_id_name_CHT = raw.split('\n').map(l => l.split('\t'));
 
 const names = id_CHS.map(x => {
@@ -21,7 +22,7 @@ const names = id_CHS.map(x => {
     let national = line[0];
     let jpn = line[2];
     let eng = line[3];
-    let line2 = natinal_id_name_CHT.find(y => parseInt(y[0]) == parseInt(national.substring(1)));
+    let line2 = natinal_id_name_CHT.find(y => parseInt(y[0]) == parseInt(national));
     national = line2[0];
     let cht = line2[1];
 
@@ -29,17 +30,30 @@ const names = id_CHS.map(x => {
 });
 names.sort();
 
+const national = natinal_id_name.map(l => {
+
+    let n = l[0];
+    let chs = l[1];
+    let jpn = l[2];
+    let eng = l[3];
+    let l2 = natinal_id_name_CHT.find(y => parseInt(y[0]) == parseInt(n));
+    let cht = l2[1];
+
+    return [n, chs, cht, jpn, eng].join('\t');
+})
+
 fs.writeFileSync(path.join(__dirname, "SV_pm_names_id.txt"), names.join('\n'));
+fs.writeFileSync(path.join(__dirname, "pm_names.txt"), national.join('\n'));
 
 /// Moves
 const moves_all = 'move-names-895.txt';
 const _zmoves = 'z-moves.txt';
 const _sv_moves = 'SV - Move Names.txt';
-raw = fs.readFileSync(path.join(__dirname, moves_all), "utf8");
+raw = loadRaw(moves_all);
 const moves = raw.split('\n').map(l => l.split('\t'));
-raw = fs.readFileSync(path.join(__dirname, _zmoves), "utf8");
+raw = loadRaw(_zmoves);
 const zmoves = raw.split('\n').map(l => l.split('\t'));
-raw = fs.readFileSync(path.join(__dirname, _sv_moves), "utf8");
+raw = loadRaw(_sv_moves);
 const sv_moves = raw.replaceAll('’', "'").split('\n').map(l => l.split(':').map(x => x.trim()));
 
 // bulbpedia 782 mistake id.
@@ -73,9 +87,9 @@ fs.writeFileSync(path.join(__dirname, "SV_move_names.txt"), sv_move_names.join('
 /// Ability
 const abilities_all = 'ability-names-298.txt';
 const _sv_abilities = 'SV - Ability Names.txt';
-raw = fs.readFileSync(path.join(__dirname, abilities_all), "utf8");
+raw = loadRaw(abilities_all);
 const abilities = raw.split('\n').map(l => l.split('\t'));
-raw = fs.readFileSync(path.join(__dirname, _sv_abilities), "utf8");
+raw = loadRaw(_sv_abilities);
 const sv_abilities = raw.replaceAll('’', "'").split('\n').map(l => l.split(':').map(x => x.trim()));
 
 
