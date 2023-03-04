@@ -1,5 +1,8 @@
 *.zip
 *.png
-build_data/*.txt
 raw
+*.txt
+!data/*.txt
 .DS_Store
+temp.js
+test.js
